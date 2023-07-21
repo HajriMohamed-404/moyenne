@@ -12,10 +12,10 @@ h1{
 	font-size: 30px;
 }
 div{
-	border: solid 2px white;
+    border: solid 2px white;
     padding: 20px;
     margin-top: 2rem;
-    width: 30%;
+    width: 33%;
     text-align-last: center;
     border-radius: 50px;
     background:linear-gradient(darkcyan,25%,black);
