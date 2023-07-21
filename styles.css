@@ -36,8 +36,8 @@ input:active{
 	background-color: black;
 	border-radius: 40px;
 	margin-top: 1rem;
-	text-align-last: center;
-	width: 22%;
+	text-align: center;
+	width: 30%;
 	color:white ;
 	border: solid 2px darkgreen ;
 	padding: 5px;
