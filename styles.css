@@ -32,7 +32,7 @@ input:active{
 	transition: border 2s;
 	border: darkcyan;
 }
-button{
+#bb{
 	background-color: black;
 	border-radius: 40px;
 	margin-top: 1rem;
